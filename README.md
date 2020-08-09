@@ -26,4 +26,10 @@ It's design is based on the Triwheel Mechanism which provides stable and efficie
 * Simple, efficient and effective __Wheel Mechanism__ for Stair climbing.
 * Prevents overload using __Separate Batteries__ for Front and Rear wheels 
 
-
+## List of simulations and CAD models
+* Bot climbing up stairs: https://drive.google.com/file/d/1Pbo2gspeZCrHfcP3bAJMy-b7ooZdyv48/view?usp=sharing
+* Output after running path planning and perception: https://youtu.be/ctwr45Y9hrs
+* Output after training YOLO: http://shorturl.at/pLR01
+* Output after running descent algorithm: http://shorturl.at/hFIUW
+* CAD model of robot: https://github.com/karan-13-hub/Stair-Climber
+* CAD model for tri wheel design: https://github.com/karan-13-hub/Tri-Wheel-Design
